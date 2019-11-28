@@ -8,7 +8,7 @@ public class Samsung extends Smartphone {
 
 	@Override
 	public void takePhoto() {
-		System.out.println("Taking photo from Samsung");
+		System.out.println("Taking a photo from Samsung");
 	}
 
 }

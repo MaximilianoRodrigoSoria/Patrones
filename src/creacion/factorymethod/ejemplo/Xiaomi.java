@@ -9,7 +9,7 @@ public class Xiaomi extends Smartphone {
 
 	@Override
 	public void takePhoto() {
-		System.out.println("Taking photo from Xiaomi");
+		System.out.println("Taking a photo from Xiaomi");
 	}
 
 }

@@ -11,7 +11,7 @@ public class Motorola extends Smartphone {
 
 	@Override
 	public void takePhoto() {
-		System.out.println("Taking photo from Motorola");
+		System.out.println("Taking a photo from Motorola");
 	}
 
 	public String getOnlyMotorola() {
