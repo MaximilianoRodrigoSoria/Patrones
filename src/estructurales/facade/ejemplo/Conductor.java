@@ -8,7 +8,7 @@ public class Conductor {
 	public Conductor() {
 		
 	}
-
+	
 
 	public void setearTransporte(MedioTransporte medio) {
 		this.medioTransporte = medio;
