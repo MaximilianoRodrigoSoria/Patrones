@@ -1,6 +1,6 @@
 package creacion.builder;
 
-import java.math.BigDecimal;
+
 
 public class PreguntasParical {
 

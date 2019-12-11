@@ -6,7 +6,7 @@ public class Main
     {
     	PreguntasParical parcial1 = new PreguntasParical();	
     	
-    	PreguntasParical parcia2 = new PreguntasParical("Nose", 10, true,true,true,true,true);	
+    	PreguntasParical parcial2 = new PreguntasParical("Nose", 10, true,true,true,true,true);	
     	
     	
     	PreguntasParical parcial3 = PreguntasParical
@@ -22,5 +22,7 @@ public class Main
    
     	
     	System.out.println(parcial3.toString());
+    	System.out.println(parcial1.toString());
+    	System.out.println(parcial2.toString());
     }
 }
