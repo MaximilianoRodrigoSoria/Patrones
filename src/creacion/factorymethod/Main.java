@@ -3,7 +3,7 @@ package creacion.factorymethod;
 import java.util.ArrayList;
 import java.util.List;
 
-public class main {
+public class Main {
 
 	public static void main(String[] args) {
 		/*  1- Se crean 3 Instancias de Metodos, las mismas tienen como marca a Audi
